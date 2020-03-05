@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -42,10 +42,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 683, y: 492}
+  m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 24
+  controlID: 103
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -208,10 +208,10 @@ MonoBehaviour:
     y: 0
     width: 1417
     height: 947
-  m_MinSize: {x: 406, y: 492}
+  m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 25
+  controlID: 104
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -232,10 +232,10 @@ MonoBehaviour:
     y: 0
     width: 1417
     height: 573
-  m_MinSize: {x: 406, y: 221}
-  m_MaxSize: {x: 8006, y: 4021}
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 26
+  controlID: 105
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -754,14 +754,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Game Dev\Unity Projects\Maze Project
+  m_LastProjectPath: D:\Game Dev\Unity Projects\Github (Maze Game)\Maze-Game\Maze
+    Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: f23e0000
     m_LastClickedID: 16114
-    m_ExpandedIDs: 00000000f23e0000dc44000010490000004e0000ac4f0000e257000080650000
+    m_ExpandedIDs: 00000000dc4400008046000010490000004e0000ac4f000052510000e257000080650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -905,9 +906,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b6010000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0efbffff00000000
+    m_ExpandedIDs: c4c0fdffc6c0fdffc8c0fdff4c1afeff4e1afeffe63affff063bffff9c88ffff0efbffff00000000806e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -957,14 +958,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 1718.5324593
+  lastFramingTime: 462.79710769999997
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 190.953, y: 3.333049, z: 199.43109}
+    m_Target: {x: 338.589, y: 37.077305, z: 228.34671}
     speed: 2
-    m_Value: {x: 190.953, y: 3.333049, z: 199.43109}
+    m_Value: {x: 338.589, y: 37.077305, z: 228.34671}
   m_RenderMode: 2
   m_CameraMode:
     drawMode: 0
@@ -992,13 +993,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.004135608, y: 0.953994, z: -0.013178552, w: -0.29950762}
+    m_Target: {x: 0.2307353, y: -0.67964673, z: 0.23989572, w: 0.6536755}
     speed: 2
-    m_Value: {x: -0.0041356087, y: 0.953994, z: -0.013178557, w: -0.29950762}
+    m_Value: {x: 0.2307353, y: -0.67964673, z: 0.23989572, w: 0.6536755}
   m_Size:
-    m_Target: 0.04523444
+    m_Target: 22
     speed: 2
-    m_Value: 0.04523444
+    m_Value: 22
   m_Ortho:
     m_Target: 0
     speed: 2

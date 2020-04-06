@@ -571,10 +571,12 @@ PlayerSettings:
   webGLCompressionFormat: 1
   webGLLinkerTarget: 1
   scriptingDefineSymbols:
-    1: CROSS_PLATFORM_INPUT
-    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    14: MOBILE_INPUT
+    1: CROSS_PLATFORM_INPUT;USE_AURORA
+    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT;USE_AURORA
+    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT;USE_AURORA
+    13: USE_AURORA
+    14: MOBILE_INPUT;USE_AURORA
+    25: USE_AURORA
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}

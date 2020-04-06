@@ -1,0 +1,113 @@
+RUS:
+Спасибо за покупку!
+Сейчас я объясню основу работы на этой системе.
+
+Разберёмся с разделом "Components"
+Он делится на 4 пункта: цвет, прозрачность, стартовая анимация (пока что одна) и титульная картинка.
+
+*Цвет и прозрачность: По умолчанию цвет чёрный, а кнопки полностью прозрачные. Поэтому важно сначала настроить эти 2 компонента.
+Если вы хотите нормальный цвет без изменений, то поставьте белый цвет.
+
+*Анимация: В стартовой анимации вы настраивайте только скорость. Нормальная скорость - 5-10. Если хотите очень быструю анимацию, то выбирайте 20-30.
+
+*Титульное изображение: В ней вы можете настроить ширину, высоту и расположение текстуры на экране (углы, все бока и над самой высокой кнопкой)
+
+Дальше перейдём к самому важному разделу - кнопки.
+Чтобы добавить кнопку нажмите "Добавить кнопку". Вы можете добавить вплоть до 15 кнопок. Также вы можете их удалять.
+
+В этом разделе есть возможность выбрать как конкретную координату на экране, так и ту, которую предлагает вам эта система (середина, верхние и нижние углы) 
+Это были общие настройки. Перейдём к конкретной кнопке. Все свойства кнопки:
+*Ширина кнопки
+*Высота кнопки
+*Текст на кнопке
+*Смещение по координатам
+*Функцию которую она выполняет 
+*Звук при нажатии
+*Страница на которой она находится
+
+Теперь про функции кнопки. Всего у кнопки (на данный момент) 4 функции: сменить уровень, выйти из приложения, изменить качество картинки и сменить страницу.
+*Сменить уровень: Тут указывайте номер уровня. Номер уровня можете посмотреть в File -> Build settings или же нажать ctrl+shift+B
+
+*Изменить качество картинки: Тут пишите значение от 0 до 5. 0 - минимальный уровень графики, 5 - максимальный.
+
+*Сменить страницу: Тут вы указываете номер страницы. Самая первая страница - 0. 
+
+*Смещение: Если вы хотите сместить куда-то свою кнопку, то просто напишите значение:
++y: сместить вниз
+-y: сместить вверх
++x: сместить вправо
+-x: сместить влево
+
+Перейдём к разделу Box. Тут всё очень похоже на кнопки. Поэтому объясню про расположение "Above the all components".
+В этом разделе создаётся фон для всех кнопок на текущей странице. 
+
+Ну и последний раздел.
+Раздел с текстурами также очень похож на раздел с кнопками и box'ами. 
+Но есть одна отличительная особенность. В ней вы можете выбрать расположение относительно кнопки (слева, сверху, справа, снизу или 
+создать её полностью поверх кнопки).
+
+Если вдруг остались вопросы:
+Пишите мне на почту zamdmytro@gmail.com или на fixthisstudio@gmail.com.
+
+Спасибо за прочитку, удачных проектов!
+
+
+ENG:
+Thank you for your purchase!
+Now I will explain the basis of work on this system.
+
+First - "Components"
+It is divided into 4 sections: color, transparency, start animation (so far, one) and the title picture.
+
+*Color & Transparency: The default color is black, and the buttons are completely transparent. 
+Therefore, it is very important to first configure them.
+If you want a normal color without any changes, put a white color.
+
+*Animation: In the start animation, you only adjust the speed. The normal speed is 5-10. If you want a very fast animation, choose 20-30.
+
+*Preview Texture: In it, you can adjust width, height and the location of the preview texture on the screen (corners, above the highest button and all sides).
+
+Next, go to the most important section - the buttons.
+To add a button, click "Add button". You can add up to 15 buttons. Also you can delete them.
+
+You can select the specific coordinate on the screen and the one that this system offers you (middle, top and bottom corners).
+
+Let's move on to a specific button. In it you can configure:
+*Button width
+*Button height
+*Button text
+*Coordinate offset
+*The function it performs
+*Sound when pressed
+*The page on which it is located
+
+
+Now about the functions of the button. 
+In total, there are 4 functions: change the level, exit the application, change the game quality and change the page.
+*Change level: Write the level number. You can check the level number in File -> Build settings or press ctrl + shift + B
+
+*Change the picture quality: Write a value from 0 to 5. 0 - the worst level of graphics, 5 - the best.
+
+*Change page: Write the page number. First page - 0.
+
+*Offset: If you want to move your button somewhere, just write a value: 
++x: move it to the right side, 
+-x: move it to the left side,
++y: move it down
+-y: move it up
+
+
+Let's move to the Box section. 
+Here everything is very similar to the buttons. So I'll explain about the section "Above the all components".
+In this section, you create a background for all the buttons on the current page.
+
+
+Well, the last section.
+The section with textures is also very similar to the section with buttons and boxes.
+But there is one distinguishing feature
+In it you can choose the location relative to the button (left, top, right, bottom or create it inside the button).
+
+If you have another questions:
+Write to me at zamdmytro@gmail.com or at fixthisstudio@gmail.com
+
+Thank you for reading!

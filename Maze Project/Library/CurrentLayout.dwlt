@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 28
+  controlID: 11
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -145,7 +145,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -211,7 +211,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 29
+  controlID: 12
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 30
+  controlID: 13
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -361,7 +361,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -800,20 +800,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Easy DG Assets 1 - Wood + Stone/Prefabs/Stone/Walls
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Easy DG Assets 1 - Wood + Stone/Prefabs/Stone/Walls
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\github projects\Maze-Game\Maze Project
+  m_LastProjectPath: D:\Game Dev\Unity Projects\Github (Maze Game)\Maze-Game\Maze
+    Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 180}
-    m_SelectedIDs: 5c450100
-    m_LastClickedID: 83292
-    m_ExpandedIDs: 000000000840010060400100ce410100b2420100b6420100da430100e24301009a450100ba45010034460100a2460100e2460100d44a0100004b01007c4b0100ba4b01009a4d0100084e0100c84f0100ce4f0100de4f0100fe4f0100565001006e51010070510100725101007451010076510100
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 6a3f0100
+    m_LastClickedID: 81770
+    m_ExpandedIDs: 00000000c43f01003e410100264201002a420100524301005a4301002045010046450100c4450100384601007c460100864a0100b44a0100364b0100784b01007c4d0100ee4d0100b44f0100ba4f0100ca4f0100ec4f010046500100925101009451010096510100985101009a5101004c9a0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -841,7 +842,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6990000
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000060400100ce410100b2420100b6420100da430100e24301009a450100ba45010034460100a2460100e2460100d44a0100004b01007c4b0100ba4b01009a4d0100084e0100c84f0100ce4f0100de4f0100fe4f0100565001006e51010070510100725101007451010076510100
+    m_ExpandedIDs: 000000006a3f0100c43f01003e410100264201002a420100524301005a4301002045010046450100c4450100384601007c460100864a0100b44a0100364b0100784b01007c4d0100ee4d0100b44f0100ba4f0100ca4f0100ec4f010046500100925101009451010096510100985101009a510100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -868,7 +869,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -957,28 +958,27 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: be45fdff
-    m_LastClickedID: -178754
-    m_ExpandedIDs: 64a5fdffb0a8fdff00000000
+    m_SelectedIDs: 4ea4fdff
+    m_LastClickedID: -154546
+    m_ExpandedIDs: c0b6fcffceb6fcffb2b7fcff000000005a560100525701005a570100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Wall-Stone (8)
-      m_OriginalName: Wall-Stone (8)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -163932
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
-  m_ExpandedScenes:
-  - 2nd Floor
+  m_ExpandedScenes: []
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -1009,14 +1009,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 4133.0040165
+  lastFramingTime: 1872.1893112999999
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 246.22261, y: 0.98033124, z: 256.6316}
+    m_Target: {x: 1502.0242, y: -701.1688, z: 183.59247}
     speed: 2
-    m_Value: {x: 246.22261, y: 0.98033124, z: 256.6316}
+    m_Value: {x: 1502.0242, y: -701.1688, z: 183.59247}
   m_RenderMode: 2
   m_CameraMode:
     drawMode: 0
@@ -1044,13 +1044,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.05380943, y: -0.58226323, z: 0.038666487, w: -0.81029564}
+    m_Target: {x: -0.22199364, y: -0.6485491, z: 0.20618545, w: -0.69827676}
     speed: 2
-    m_Value: {x: -0.05380943, y: -0.58226323, z: 0.038666487, w: -0.81029564}
+    m_Value: {x: -0.22199365, y: -0.64854914, z: 0.20618546, w: -0.6982768}
   m_Size:
-    m_Target: 6.0073957
+    m_Target: 1768.8633
     speed: 2
-    m_Value: 6.0073957
+    m_Value: 1768.8633
   m_Ortho:
     m_Target: 0
     speed: 2

@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 11
+  controlID: 24
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -211,7 +211,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 12
+  controlID: 25
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 13
+  controlID: 26
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -800,21 +800,21 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Game Dev\Unity Projects\Github (Maze Game)\Maze-Game\Maze
     Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1328}
-    m_SelectedIDs: 465d0000
-    m_LastClickedID: 23878
-    m_ExpandedIDs: 000000001c4000005a41000094460000544800005a480000684b00009e4b0000e250000030510000ac520000d25300007e540000b85c0000185d0000b85e0000d45f0000a0660000e86700002c6c00004c6c0000746c0000de6c0000bc6d000026760000287600002a7600002c7600002e760000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 54410000
+    m_LastClickedID: 16724
+    m_ExpandedIDs: 0000000092420000cc4700008c49000092490000a04c0000d64c00001a52000068520000e85300000e550000ba550000f45d0000545e0000f45f000010610000dc67000024690000686d0000886d0000b06d00001a6e0000f86e0000b4790000b6790000b8790000ba790000bc790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -842,7 +842,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: b6990000
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001c4000005a41000094460000544800005a4800009e4b0000e250000030510000ac520000d25300007e540000b85c0000185d0000b85e0000d45f0000a0660000e86700002c6c00004c6c0000746c0000de6c0000bc6d000026760000287600002a7600002c7600002e760000
+    m_ExpandedIDs: 000000005441000092420000cc4700008c49000092490000a04c0000d64c00001a52000068520000e85300000e550000ba550000f45d0000545e0000f45f000010610000dc67000024690000686d0000886d0000b06d00001a6e0000f86e0000b4790000b6790000b8790000ba790000bc790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -958,9 +958,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6ee5ffff
-    m_LastClickedID: -6802
-    m_ExpandedIDs: 00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 8cb9ffff78f7ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -978,7 +978,9 @@ MonoBehaviour:
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
-  m_ExpandedScenes: []
+  m_ExpandedScenes:
+  - 1st Floor
+  - 2nd Floor
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -1009,14 +1011,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 0
-  lastFramingTime: 110.4506203
+  lastFramingTime: 190.56570309999998
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 11.1833725, y: 2.1362917, z: 3.9397569}
+    m_Target: {x: 260.62494, y: 9.399792, z: 239.33696}
     speed: 2
-    m_Value: {x: 11.1833725, y: 2.1362917, z: 3.9397569}
+    m_Value: {x: 260.62494, y: 9.399792, z: 239.33696}
   m_RenderMode: 2
   m_CameraMode:
     drawMode: 0
@@ -1044,13 +1046,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.18474361, y: -0.071578264, z: 0.01349211, w: -0.9800839}
+    m_Target: {x: -0.37505224, y: 0.13471423, z: -0.055187948, w: -0.9155011}
     speed: 2
-    m_Value: {x: -0.18474361, y: -0.071578264, z: 0.01349211, w: -0.9800839}
+    m_Value: {x: -0.37505224, y: 0.13471423, z: -0.055187948, w: -0.9155011}
   m_Size:
-    m_Target: 10
+    m_Target: 10.066992
     speed: 2
-    m_Value: 10
+    m_Value: 10.066992
   m_Ortho:
     m_Target: 0
     speed: 2
